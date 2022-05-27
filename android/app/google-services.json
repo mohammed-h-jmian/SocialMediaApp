@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070174677667",
+    "project_id": "newapp-e2bc1",
+    "storage_bucket": "newapp-e2bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070174677667:android:f70d3250a8afff1dd4ad16",
+        "android_client_info": {
+          "package_name": "com.mohammed.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070174677667-o15vjfi5hfij9u3skfb7kr0u4ic4nfsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXl2b-EbFjNuzDZ6HmGcSP6peYcvMel4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070174677667-o15vjfi5hfij9u3skfb7kr0u4ic4nfsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
